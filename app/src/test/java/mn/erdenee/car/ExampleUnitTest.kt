@@ -1,4 +1,4 @@
-package com.example.myapplication
+package mn.erdenee.car
 
 import org.junit.Test
 
